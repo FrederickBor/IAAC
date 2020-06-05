@@ -1,4 +1,4 @@
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![License: MIT](https://img.shields.io/github/license/frederickbor/IAAC)](LICENSE)
 
 # Acerca de este repositorio.
 
